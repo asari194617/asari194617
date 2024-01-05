@@ -17,12 +17,23 @@ NITNC 1st Grade '23 with Ec
 - Ruby
 - HTML
 - CSS
+- VBA
 
 ## 今勉強してるもの
 - Swift
-- Javascript
+- JavaScript
 - Java
 - Node.js
+
+## これからやりたいもの
+- Next.js
+- C
+- C++
+- C#
+- Go
+- php
+- Flutter
+- Kotlin
 
 ## りっとりんく
 - Twitter : [@TomohiroAsari](https://twitter.com/TomohiroAsari)
