@@ -7,6 +7,7 @@ NITNC 1st Grade '23 with Ec
 
 ***
 
+## お前に何ができるん
 - GAS
 - Python
 
