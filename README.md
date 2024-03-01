@@ -24,6 +24,9 @@ NITNC 1st Grade '23 with Ec
 - JavaScript
 - Java
 - Node.js
+- TypeScript
+- Vue.js
+- PHP
 
 ## これからやりたいもの
 - Next.js
@@ -31,7 +34,6 @@ NITNC 1st Grade '23 with Ec
 - C++
 - C#
 - Go
-- php
 - Flutter
 - Kotlin
 
