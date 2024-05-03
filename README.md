@@ -2,7 +2,7 @@
 
 ***
 
-NITNC 1st Grade '23 with Ec 
+NITNC 2nd Grade '23 with Ec 
 #kosen23s
 
 ***
