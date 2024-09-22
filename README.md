@@ -1,5 +1,3 @@
-# 浅利　智大（あさり　ともひろ）
-
 ## スキル
 - Node.js
 - TypeScript
