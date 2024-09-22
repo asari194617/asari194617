@@ -1,4 +1,4 @@
-## スキル
+## Skills
 - Node.js
 - TypeScript
 - JavaScript
@@ -12,11 +12,11 @@
 - CSS
 - VBA
 
-## 学習中
+## Learning
 - Swift
 - Vue.js
 
-## 将来的に学習予定
+## Want to study in the future
 - Java
 - C
 - C++
