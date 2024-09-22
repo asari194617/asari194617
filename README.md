@@ -2,12 +2,8 @@
 
 ***
 
-NITNC 2nd Grade '23 with Ec 
+NITNC 2nd Grade '23 Ec 
 #kosen23s
-
-***
-
-片足を突っ込みまくっています
 
 ***
 
