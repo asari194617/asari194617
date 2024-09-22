@@ -11,7 +11,13 @@ NITNC 2nd Grade '23 with Ec
 
 ***
 
-## お前に何ができるん
+## スキル
+- Node.js
+- TypeScript
+- JavaScript
+- Next.js
+- React
+- SQL
 - Google Apps Script
 - Python
 - Ruby
@@ -19,23 +25,19 @@ NITNC 2nd Grade '23 with Ec
 - CSS
 - VBA
 
-## 今勉強してるもの
+## 学習中
 - Swift
-- JavaScript
-- Java
-- Node.js
-- TypeScript
 - Vue.js
-- PHP
 
-## これからやりたいもの
-- Next.js
+## 将来的に学習予定
+- Java
 - C
 - C++
 - C#
 - Go
 - Flutter
 - Kotlin
+- PHP
 
-## りっとりんく
+## links
 - Twitter : [@TomohiroAsari](https://twitter.com/TomohiroAsari)
