@@ -1,12 +1,5 @@
 # 浅利　智大（あさり　ともひろ）
 
-***
-
-NITNC 2nd Grade '23 Ec 
-#kosen23s
-
-***
-
 ## スキル
 - Node.js
 - TypeScript
