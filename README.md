@@ -31,6 +31,3 @@
 - Flutter
 - Kotlin
 - PHP
-
-## links
-- Twitter : [@TomohiroAsari](https://twitter.com/TomohiroAsari)
