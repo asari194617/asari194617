@@ -21,8 +21,15 @@
 ## Learning
 - Swift
 - Vue.js
+- React Native
 
 ## Want to study in the future
+- Deno
+- Bun
+- Hono
+- Docker
+- Kubernetes
+- Load balancing
 - Java
 - C
 - C++
