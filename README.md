@@ -23,7 +23,7 @@
 - Vue.js
 - React Native
 
-## Want to study in the future
+## Want to learn
 - Deno
 - Bun
 - Hono
