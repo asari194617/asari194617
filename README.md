@@ -22,6 +22,7 @@
 - Swift
 - Vue.js
 - React Native
+- Go
 
 ## Want to learn
 - Deno
@@ -34,7 +35,6 @@
 - C
 - C++
 - C#
-- Go
 - Flutter
 - Kotlin
 - PHP
