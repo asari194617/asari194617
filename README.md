@@ -35,6 +35,5 @@
 - C
 - C++
 - C#
-- Flutter
 - Kotlin
 - PHP
