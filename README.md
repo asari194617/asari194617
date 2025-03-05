@@ -23,16 +23,16 @@
 - Vue.js
 - React Native
 - Go
+- C
+- Docker
 
 ## Want to learn
 - Deno
 - Bun
 - Hono
-- Docker
 - Kubernetes
 - Load balancing
-- Java
-- C
+- Java (Spring Boot)
 - C++
 - C#
 - Kotlin
