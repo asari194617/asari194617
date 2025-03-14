@@ -25,12 +25,12 @@
 - Go
 - C
 - Docker
+- Kubernetes
 
 ## Want to learn
 - Deno
 - Bun
 - Hono
-- Kubernetes
 - Load balancing
 - Java (Spring Boot)
 - C++
