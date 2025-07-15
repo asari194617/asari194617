@@ -26,6 +26,7 @@
 - C
 - Docker
 - Kubernetes
+- C++
 
 ## Want to learn
 - Deno
