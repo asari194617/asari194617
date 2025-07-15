@@ -34,7 +34,6 @@
 - Hono
 - Load balancing
 - Java (Spring Boot)
-- C++
 - C#
 - Kotlin
 - PHP
