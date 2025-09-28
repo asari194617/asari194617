@@ -25,7 +25,6 @@
 - React Native
 - Go
 - C
-- Docker
 - Kubernetes
 - C++
 
