@@ -17,7 +17,7 @@
 ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Google Apps Script](https://img.shields.io/badge/-Google%20Apps%20Script-4285F4?style=flat-square&logo=Google%20Apps%20Script&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-1488C6.svg?logo=docker&style=plastic)
+![Docker](https://img.shields.io/badge/-Docker-1488C6.svg?logo=docker&style=flat-square)
 
 ## Learning
 - Swift
