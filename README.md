@@ -20,20 +20,21 @@
 ![Docker](https://img.shields.io/badge/-Docker-1488C6.svg?logo=docker&style=flat-square)
 
 ## Learning
-- Swift
 - Vue.js
-- React Native
 - Go
 - C
 - Kubernetes
 - C++
+- PHP
+- Java (Spring Boot)
+- Scala
 
 ## Want to learn
+- React Native
+- Swift
 - Deno
 - Bun
 - Hono
 - Load balancing
-- Java (Spring Boot)
 - C#
 - Kotlin
-- PHP
