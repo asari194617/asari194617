@@ -20,16 +20,16 @@
 ![Docker](https://img.shields.io/badge/-Docker-1488C6.svg?logo=docker&style=flat-square)
 
 ## Learning
-- Vue.js
 - Go
 - C
-- Kubernetes
 - C++
 - PHP
 - Java (Spring Boot)
 - Scala
+- Kubernetes
 
 ## Want to learn
+- Vue.js
 - React Native
 - Swift
 - Deno
